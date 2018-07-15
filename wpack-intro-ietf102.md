@@ -3,7 +3,7 @@
 <!-- Conversion to slides via Marp - https://github.com/yhatt/marp -->
 
 
-# Packaging Websites (WPACK)
+# Website Packaging (WPACK)
 
 ## 
 ##
@@ -57,13 +57,14 @@ July 15, 2018  - IETF 102 Hot RFC Session
 	- https://tools.ietf.org/html/draft-yasskin-wpack-bundled-exchanges-00
 
 - Jeffrey Yasskin of Google main point person (but is not here at IETF 102)
+- Work underway on both specification and a Chromium implementation
 
 ---
 # Join in
 
-- https://www.ietf.org/mailman/listinfo/Wpack
+- Mailing list: https://www.ietf.org/mailman/listinfo/Wpack
 
-- https://github.com/WICG/webpackage
+- Github: https://github.com/WICG/webpackage
 
 - Possible Bar BOF / side meeting at IETF 102 (still being organized)
 
@@ -76,6 +77,6 @@ york@isoc.org
 
 FYI, these slides were created in Markdown and rendered using MARP (https://yhatt.github.io/marp/)
 
-Slides can be found at:
+Slides can be found at: https://github.com/danyork/wpack-intro-ietf102
 - 
 
