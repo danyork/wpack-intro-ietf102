@@ -13,7 +13,7 @@ Dan York
 york@isoc.org
 @danyork
 
-July 15, 2018  - IETF 102 Hot RFC Session
+July 2018  - IETF 102
 
 ---
 <!-- page_number: true -->
